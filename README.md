@@ -4,8 +4,7 @@ Jan 31, 2020
 
 This repository contains the code used for the paper:
 
-* Arjun Seshadri, Stephen Ragain, Johan Ugander (2020) [Learning Rich Rankings](https://arjunsesh.github.io/files/lrr_neurips.pdf)
-Advances in Neural Information Processing Systems (NeurIPS) 33, 2020.
+* Arjun Seshadri, Stephen Ragain, Johan Ugander (2020) [Learning Rich Rankings](https://arjunsesh.github.io/files/lrr_neurips.pdf), Advances in Neural Information Processing Systems (NeurIPS) 33, 2020.
 
 The repository uses PyTorch to learn probabilistic models for ranking data by learning on discrete choice data made from rankings.
 
